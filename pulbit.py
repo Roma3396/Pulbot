@@ -28,7 +28,7 @@ def keep_alive():
     t.start()
 
 # --- KONFIGURATSIYA ---
-TOKEN = "7693190148:AAGTjp2Lb4HkNenC2e9EYUx3BebFb4p5kIQ"
+TOKEN = "7696636612:AAEBwnPlG93Q4guheUrwLOY-zFjb6oIGRWI"
 ADMIN_ID = [7829422043, 6881599988]
 CHANNELS = [
     {"link": "@FeaF_Helping", "id": -1003155796926},
